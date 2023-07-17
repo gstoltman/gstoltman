@@ -1,6 +1,6 @@
 ### Summary
 
-I am a Seattle based Data Analyst. I have experience in data analytics, driving value with visualizations, designing end-to-end solutions from ETL pipelines, algorithms, and databases. I currently contract as a Data Analyst in Risk Management at Microsoft.
+I am a Seattle based Data Analyst/Data Engineer. I have experience in data analytics, driving value with visualizations, designing end-to-end solutions from ETL pipelines, algorithms, and databases. I currently contract as a Data Analyst in Risk Management at Microsoft.
 
 <!--
 **gstoltman/gstoltman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
