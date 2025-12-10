@@ -1,6 +1,6 @@
 ### Summary
 
-I am a Seattle based Data Professional interested in Data Engineering roles. I have experience at Microsoft in designing end-to-end solutions with ETL/ELT pipelines, developing the architecture for databases, implementing algorithms/scripts for automation, and data analytics.
+I am a Seattle based Data Professional interested in Data Engineering roles. I have experience at Microsoft and Amazon in designing end-to-end solutions with ETL/ELT pipelines, developing the architecture for databases, implementing algorithms/scripts for automation, and data analytics.
 
 <!--
 **gstoltman/gstoltman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
